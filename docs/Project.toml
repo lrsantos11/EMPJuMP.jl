@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+EMPJuMP = "3419a42b-660c-4868-8c15-fe5f158717b3"
